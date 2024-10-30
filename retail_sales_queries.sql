@@ -1,6 +1,6 @@
--- Project Title: Retail Sales Analysis in SQL
+-- Project Title: Retail Sales Analysis with SQL
 -- By: Abdullah Akintobi
--- Published On: October 30, 20224
+-- Published On: October 30, 2024
 --
 --
 -- Data Modeling
